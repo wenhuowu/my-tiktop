@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "video-player": "/components/videoPlayer",
+    "list-left": "/components/listLeft",
+    "list-right": "/components/listRight",
+    "comment": "/components/comment"
+  }
+}

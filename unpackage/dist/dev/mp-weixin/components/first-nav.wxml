@@ -1,0 +1,1 @@
+<view class="firstNav"><view class="iconfont iconsousuo icon"></view><view class="middle"><navigator class="text" open-type="switchTab" url="/pages/index/index">推荐</navigator><navigator class="text" open-type="switchTab" url="/pages/follow/follow">关注</navigator></view></view>

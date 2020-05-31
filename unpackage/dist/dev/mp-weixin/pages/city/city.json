@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "同城",
+  "usingComponents": {
+    "tab": "/components/tab",
+    "first-nav": "/components/first-nav",
+    "city-content": "/components/cityContent"
+  }
+}

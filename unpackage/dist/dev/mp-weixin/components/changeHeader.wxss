@@ -1,0 +1,30 @@
+
+.changeHeader{
+	width: 100%;
+	height: 120rpx;
+	line-height: 160rpx;
+	position:fixed;
+	top:0;
+	left:0;
+	margin: 0 auto;
+	background: #000000;
+}
+.ground{
+	width: 100%;
+	height: 120rpx;
+}
+.left{
+	position: absolute;
+	top:0;
+	left:30rpx;
+	height: 160rpx;
+	line-height: 160rpx;
+	color: #AAAAAA;
+	font-size: 36rpx;
+}
+.title{
+	font-size:26rpx;
+	text-align: center;
+	color: #FFFFFF;
+}
+

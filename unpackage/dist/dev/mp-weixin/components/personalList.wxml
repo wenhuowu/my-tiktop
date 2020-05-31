@@ -1,0 +1,1 @@
+<view><view class="personalList"><view class="item"><video class="video" src="http://192.168.43.101:80/video/2-2.mp4" objectFit="cover" loop="true" autoplay="true" controls="{{false}}" muted="{{true}}"></video><view class="love-box"><text class="iconfont iconicon-test love-icon">12w</text></view></view></view><view class="more">没有更多了</view><view class="ground"></view></view>

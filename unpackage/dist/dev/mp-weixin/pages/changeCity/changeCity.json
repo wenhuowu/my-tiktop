@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "change-header": "/components/changeHeader",
+    "change-list": "/components/changeList",
+    "change-alphabet": "/components/changeAlphabet"
+  }
+}

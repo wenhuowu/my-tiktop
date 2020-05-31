@@ -1,0 +1,38 @@
+
+.videoList{
+	height:100%;
+	width: 100%;
+}
+.swiper-box{
+	height:100%;
+	width: 100%;
+}
+.swiper{
+	height:100%;
+	width: 100%;
+}
+.swiper-item{
+	height:100%;
+	width: 100%;
+}
+.left-box{
+	z-index:20;
+	position:absolute;
+	bottom: 125rpx;
+	left: 20rpx;
+}
+.right-box{
+	z-index:20;
+	position:absolute;
+	bottom: 50px;
+	right: 10px;
+}
+.comment-box{
+	position:fixed;
+	bottom:0 ;
+	left: 0;
+	z-index:22;
+	height: 500px;
+	width: 100%;
+}
+

@@ -1,0 +1,51 @@
+
+.listLeft{
+	height: 150rpx;
+	margin-left:3rpx ;
+	color:#FFFFFF;
+	width:150rpx
+}
+.author{
+	height: 70rpx;
+	line-height: 70rpx;
+	font-size: 30rpx;
+}
+.title{
+	line-height: 44rpx;
+	font-size: 24rpx;
+	width:100%;
+	word-wrap: break-word;
+}
+.box{
+	width:200rpx;
+	overflow: hidden;
+}
+.music{
+	height: 70rpx;
+	line-height: 70rpx;
+	font-size: 24rpx;
+	width: 280rpx;
+	-webkit-animation: music 4s linear 0.2s infinite;
+	        animation: music 4s linear 0.2s infinite;
+}
+@-webkit-keyframes music{
+0%{
+		-webkit-transform:translate3d(80%,0,0);
+		        transform:translate3d(80%,0,0)
+}
+100%{
+		-webkit-transform:translate3d(-80%,0,0);
+		        transform:translate3d(-80%,0,0)
+}
+}
+@keyframes music{
+0%{
+		-webkit-transform:translate3d(80%,0,0);
+		        transform:translate3d(80%,0,0)
+}
+100%{
+		-webkit-transform:translate3d(-80%,0,0);
+		        transform:translate3d(-80%,0,0)
+}
+}
+

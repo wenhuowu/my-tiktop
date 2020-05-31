@@ -1,0 +1,1 @@
+<view class="city"><change-header vue-id="c4019d40-1" bind:__l="__l"></change-header><change-list vue-id="c4019d40-2" letter="{{letter}}" city="{{city}}" tcity="{{tcity}}" bind:__l="__l"></change-list><change-alphabet vue-id="c4019d40-3" city="{{city}}" data-event-opts="{{[['^change',[['change']]]]}}" bind:change="__e" bind:__l="__l"></change-alphabet></view>
